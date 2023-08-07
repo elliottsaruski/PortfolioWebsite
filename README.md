@@ -1,1 +1,1 @@
-# PortfolioWebsite
+This website was built for a Codecademy project (FED course) but I plan to upgrade it and fully deploy under elliottsaruski.com when I feel it can accurately display my knowledge of Front-End Development.
